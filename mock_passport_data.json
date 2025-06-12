@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "mock_thai_passport_01.jpg",
+    "ocr_result": "THAI-P1234567-MR-JOHN-DOE-15JAN1990-10JUL2020-09JUL2030",
+    "soc_format": "01-DOE-JOHN-MR--THA-P1234567-15JAN1990-10JUL2020-09JUL2030-VALID-35 YRS"
+  },
+  {
+    "filename": "mock_thai_passport_02.jpg",
+    "ocr_result": "THAI-A9876543-MS-SUDA-LEE-25MAR1985-01JAN2022-31DEC2031",
+    "soc_format": "02-LEE-SUDA-MS--THA-A9876543-25MAR1985-01JAN2022-31DEC2031-VALID-40 YRS"
+  }
+]
